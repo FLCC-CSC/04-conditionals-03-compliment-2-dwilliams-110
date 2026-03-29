@@ -1,7 +1,7 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
+# NAME: Daniel Williams
+# DATE: 3/26/2026
 # BRIEF DESCRIPTION:  
 
 
@@ -14,13 +14,14 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+compliment = input('Would you like a compliment?: ')
 
+if compliment == 'yes':
+    print('You have wonderful eyes.')
+else:
+    print('No compliment for you!')
 
-
-
-
-
-
+print('Thank you for playing.')
 
 
 
@@ -69,7 +70,7 @@ Thank you for playing.
 
 '''
 
-1. Did you struggle with this lab (YES/NO)?
+1. Did you struggle with this lab (YES/NO)? NO
 
 
 
